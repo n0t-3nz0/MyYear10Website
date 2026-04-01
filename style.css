@@ -39,7 +39,7 @@ img {
     color: darkslategray;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: darkslategray;
+    background-color: black;
 }
 
 /* Three column grid with a nice big gap */
@@ -59,7 +59,7 @@ img {
     color: darkslategray;
     padding: 1em;
     border-radius: 0.5em;
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* Styling for the topic card titles */
